@@ -1,0 +1,11 @@
+Domeniul : Inchirieri Carti 
+
+Sistemul software implementat reprezinta o aplicatie Web ce ajuta la imprumutul cartilor dintr-o biblioteca.
+
+Aplicatia WEB :
+	* autentificare utilizator-admin
+	* imprumut carte
+	* vizualizarea cartilor disponibile
+	* vizualizarea clientilor ce au efectuat un imprumut
+
+Toate informatiile sunt stocate intr-o baza de date
